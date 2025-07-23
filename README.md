@@ -15,6 +15,9 @@ Here is a list of the projects currently included in this repository:
 *   **Square Root (Bisection Method):** A function to find the square root of a number using the bisection numerical method, highlighting algorithmic thinking.
 *   **Luhn Algorithm:** An implementation of the checksum formula used to validate identification numbers like credit card numbers.
 *   **Case Converter:** A script to convert strings between different programming case styles (e.g., snake_case, PascalCase).
+*   **Password Generator:** A robust script for creating cryptographically strong, random passwords. It leverages Python's `secrets` module for security and the `re` module to enforce customizable constraints, such as minimum length and required counts of uppercase letters, numbers, and special characters.
+
+
 
 *(This list will be updated as I complete more exercises in the curriculum.)*
 
