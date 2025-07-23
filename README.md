@@ -16,6 +16,7 @@ Here is a list of the projects currently included in this repository:
 *   **Luhn Algorithm:** An implementation of the checksum formula used to validate identification numbers like credit card numbers.
 *   **Case Converter:** A script to convert strings between different programming case styles (e.g., snake_case, PascalCase).
 *   **Password Generator:** A robust script for creating cryptographically strong, random passwords. It leverages Python's `secrets` module for security and the `re` module to enforce customizable constraints, such as minimum length and required counts of uppercase letters, numbers, and special characters.
+*   **Dijkstra's Shortest Path Algorithm:** An implementation of the classic Dijkstra's algorithm to find the shortest path between nodes in a weighted graph. This project demonstrates the use of data structures like dictionaries and lists to manage distances and paths, and algorithmic concepts such as greedy approaches by iteratively selecting the node with the minimum distance.
 
 
 
