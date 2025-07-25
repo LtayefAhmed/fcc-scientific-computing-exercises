@@ -17,6 +17,7 @@ Here is a list of the projects currently included in this repository:
 *   **Case Converter:** A script to convert strings between different programming case styles (e.g., snake_case, PascalCase).
 *   **Password Generator:** A robust script for creating cryptographically strong, random passwords. It leverages Python's `secrets` module for security and the `re` module to enforce customizable constraints, such as minimum length and required counts of uppercase letters, numbers, and special characters.
 *   **Dijkstra's Shortest Path Algorithm:** An implementation of the classic Dijkstra's algorithm to find the shortest path between nodes in a weighted graph. This project demonstrates the use of data structures like dictionaries and lists to manage distances and paths, and algorithmic concepts such as greedy approaches by iteratively selecting the node with the minimum distance.
+*   **Tower of Hanoi:** A classic recursive solution to the Tower of Hanoi puzzle. This project is a prime example of solving a complex problem by breaking it down into smaller, identical sub-problems, showcasing the power and elegance of recursive thinking.
 
 
 
