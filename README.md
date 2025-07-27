@@ -20,6 +20,7 @@ Here is a list of the projects currently included in this repository:
 *   **Tower of Hanoi:** A classic recursive solution to the Tower of Hanoi puzzle. This project is a prime example of solving a complex problem by breaking it down into smaller, identical sub-problems, showcasing the power and elegance of recursive thinking.
 *   **Merge Sort Algorithm:** A classic implementation of the Merge Sort algorithm, a highly efficient, comparison-based sorting algorithm. This project showcases the "Divide and Conquer" paradigm, using recursion to break down the problem and iterative merging to build the solution.
 *   **Sudoku Solver:** A class-based Sudoku solver that uses a  recursive backtracking algorithm.
+*   **Binary Search Tree (BST):** A robust implementation of the Binary Search Tree data structure. This project demonstrates key computer science concepts including object-oriented design, recursion for core operations (insert, search, delete), and handling complex cases like node deletion with two children by finding the in-order successor.
 
 
 *(This list will be updated as I complete more exercises in the curriculum.)*
